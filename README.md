@@ -1,3 +1,3 @@
 # First_project
 Taxi
-https://mybinder.org/v2/gh/SKorzeneva/Taxi_coursera/master?filepath=Taxi.ipynb
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SKorzeneva/First_project/master?filepath=Taxi.ipynb)
