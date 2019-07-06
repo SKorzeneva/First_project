@@ -12,3 +12,11 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SKorzeneva/First_project/master?filepath=Taxi.ipynb)
 
 **Важно:** открытие ноутбука на сервере занимает некоторое время. После того, как ноутбук загрузится, необходимо будет нажать кнопку Restart & Run All (как при  обычной работе с ipython notebook). 
+
+Ниже представлены гифки с работой виджетов.
+
+---
+![](Demo1.gif)
+
+---
+![](Demo2.gif)
